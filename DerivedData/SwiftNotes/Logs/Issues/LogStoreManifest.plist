@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7A7FF1BE-A538-48D8-B1D6-9FB54F600768</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>7A7FF1BE-A538-48D8-B1D6-9FB54F600768.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftNotes-hihqihmpbljddigbgesppliveudw</string>
+			<key>timeStartedRecording</key>
+			<real>672053379.39217997</real>
+			<key>timeStoppedRecording</key>
+			<real>672053379.44276905</real>
+			<key>title</key>
+			<string>Build target SwiftNotes_Sources</string>
+			<key>uniqueIdentifier</key>
+			<string>7A7FF1BE-A538-48D8-B1D6-9FB54F600768</string>
+		</dict>
+		<key>98E3E3CB-5982-481F-9942-B6E69858260C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>98E3E3CB-5982-481F-9942-B6E69858260C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>1编译流程.xcplaygroundpage-hihqihmpbljddigbgesppliveudw</string>
+			<key>timeStartedRecording</key>
+			<real>672053379.39282</real>
+			<key>timeStoppedRecording</key>
+			<real>672053379.442747</real>
+			<key>title</key>
+			<string>Build target N1编译流程_PageSources</string>
+			<key>uniqueIdentifier</key>
+			<string>98E3E3CB-5982-481F-9942-B6E69858260C</string>
+		</dict>
+		<key>F165F867-0D36-4AF5-B27A-EBFF4703C68E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>F165F867-0D36-4AF5-B27A-EBFF4703C68E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>2字符串枚举闭包.xcplaygroundpage-hihqihmpbljddigbgesppliveudw</string>
+			<key>timeStartedRecording</key>
+			<real>672053379.39237106</real>
+			<key>timeStoppedRecording</key>
+			<real>672053379.44388497</real>
+			<key>title</key>
+			<string>Build target N2字符串枚举闭包_PageSources</string>
+			<key>uniqueIdentifier</key>
+			<string>F165F867-0D36-4AF5-B27A-EBFF4703C68E</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

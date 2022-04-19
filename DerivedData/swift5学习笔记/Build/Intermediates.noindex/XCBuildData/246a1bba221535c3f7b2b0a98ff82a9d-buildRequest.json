@@ -1,0 +1,1319 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N1_区间运算符__switch__for__if__枚举_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/1.区间运算符, switch, for, if, 枚举.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N2_结构体_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/2.结构体.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N3_闭包_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/3.闭包.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N4_属性_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/4.属性.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N5_方法_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/5.方法.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N6_继承_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/6.继承.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N7_初始化器_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/7.初始化器.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N8_可选链_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/8.可选链.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N9_协议_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/9.协议.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N10_元类型相关_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/10.元类型相关.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N11_错误处理_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/11.错误处理.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N12_泛型_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/12.泛型.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N13_可选项本质_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/13.可选项本质.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N14_运算符_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/14.运算符.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N15_Extension_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/15.Extension.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N16_weak和unowned的区别_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/16.weak和unowned的区别.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N17_访问控制_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/17.访问控制.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N18_闭包循环引用问题_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/18.闭包循环引用问题.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N19_逃逸闭包和非逃逸闭包_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/19.逃逸闭包和非逃逸闭包.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N20_swift的指针_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/20.swift的指针.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N21_字面量_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/21.字面量.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N22_模式匹配_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/22.模式匹配.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N23_从OC到Swift_1_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/23.从OC到Swift_1.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N24_从OC到Swift_2_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/24.从OC到Swift_2.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N25_swift_GCD_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/25.swift GCD.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N26_OptionSet_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/26.OptionSet.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:N27_Swift的函数派发_PageSources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground/Pages/27.Swift的函数派发.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:swift5学习笔记_Sources-PLAYGROUND-TARGET:/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.2",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+          "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Intermediates.noindex",
+              "SYMROOT" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/Playgrounds/swift5学习笔记/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.2",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/swift5学习笔记.playground",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Products",
+      "derivedDataPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/paintitcolorful/StudySpace/SwiftNotes/DerivedData/swift5学习笔记/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "B48D878D-1480-4EFD-8E03-B3376EDEE373",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
